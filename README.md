@@ -39,3 +39,12 @@ public class WebApp implements WebApplicationInitializer {
 }
 
 ```
+
+## Maven artifact
+```xml
+<dependency>
+  <groupId>net.optionfactory</groupId>
+  <artifactId>defiance</artifactId>
+  <version>1.0</version>
+</dependency>
+```
