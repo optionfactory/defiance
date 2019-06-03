@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.optionfactory</groupId>
     <artifactId>defiance</artifactId>
-    <version>1.0</version>
+    <version>2.0</version>
     <packaging>jar</packaging>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Enable Spring Web MVC with public fields binding support</description>
@@ -45,7 +45,7 @@
         </repository>
     </distributionManagement>
     <properties>
-        <spring.version>4.3.5.RELEASE</spring.version>
+        <spring.version>5.1.5.RELEASE</spring.version>
     </properties>
     
     <dependencies>
